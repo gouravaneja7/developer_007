@@ -1,0 +1,4 @@
+rootProject.name = 'org.jacoco.examples.gradle.java'
+include 'child'
+include 'Hilton'
+
